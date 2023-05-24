@@ -1,0 +1,30 @@
+
+# todo use errorframe, enum?
+
+# TODO fix the size and the placement not saving and opening correctly
+# TODO fix bug where window keeps sliding slowly down on reopening  multiple times
+
+# TODO error deleting gifs
+
+# TODO wtf is an swf file
+
+# TODO add supports for gif maybe
+
+# TODO add more threading
+
+# TODO add better feedback to button presses
+
+# TODO add settable move button, make it change properPath, or change status
+
+# TODO add message box for text description on keep/delete event.
+
+# todo potential tiny memory leak pattern frames, investigate
+
+# title bar icon wont work until .exe
+# todo tray icon for AppHandler
+
+# automove doesn't allow , in path names
+# todo auto move indicator
+
+# make status enum?
+

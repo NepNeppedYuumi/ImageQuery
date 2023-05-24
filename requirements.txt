@@ -1,0 +1,4 @@
+customtkinter~=5.1.2
+Pillow~=9.5.0
+configobj~=5.0.8
+pywin32~=306
