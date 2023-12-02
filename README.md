@@ -19,7 +19,4 @@ ImageQuery provides blacklisting, patternmatching for
 additional information and customizable hotkeys for all repetitive
 processes involved.
 
-ImageQuery (will) has the ability to be used as a standard app,
-or as an app that stays in the background adn activates every n hours.
-
 App Icon from https://www.pixiv.net/en/artworks/85968352.
